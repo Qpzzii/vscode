@@ -52,5 +52,6 @@ properties:
         description: Install dependencies
         allowPrerelease: true
       settings:
-        PackageDirectory: '${WinGetConfigRoot}\..\'
+        PackageDirectory: '${WinGetConfigRoot}\..\
   configurationVersion: 0.2.0
+
